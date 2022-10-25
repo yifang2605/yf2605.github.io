@@ -7,6 +7,30 @@ output:
     theme: cerulean
 ---
 
-# This is Jeff's awesome website
+# text content and hyperlink
+
+hyper links: [google](google.com)
+
+another page: [about](about.html)
+
+# picture
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+<img src="images/image.jpg" style="width:75%">
+
+<center>
+<img src="images/image.jpg" style="width:25%">
+</center>
+
+
+# R codes
+```{r}
+library(tidyverse)
+sample = rnorm(1000)
+mean(sample)
+```
+
+# plotly
+[Here's](plotly.html) a page with plotly plots
+[Here's](dashboard.html) a dashboard
