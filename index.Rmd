@@ -9,7 +9,7 @@ output:
 
 # text content and hyperlink
 
-hyper links: [google](google.com)
+hyper links: [google](https://www.google.com)
 
 another page: [about](about.html)
 
@@ -17,10 +17,10 @@ another page: [about](about.html)
 
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
 
-<img src="images/image.jpg" style="width:75%">
+<img src="images/ted.jpg" style="width:75%">
 
 <center>
-<img src="images/image.jpg" style="width:25%">
+<img src="images/ted.jpg" style="width:25%">
 </center>
 
 
